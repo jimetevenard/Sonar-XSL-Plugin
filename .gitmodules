@@ -1,0 +1,3 @@
+[submodule "xslt-quality"]
+	path = xslt-quality
+	url = https://github.com/jimetevenard/xslt-quality.git
